@@ -2024,11 +2024,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.44736123
       objectReference: {fileID: 0}
+    - target: {fileID: -5918543669245892732, guid: a9864d59efe977840bad666ec7bbb59f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f517000b8b782c94d81d7f6609981636, type: 2}
+    - target: {fileID: -261247415821445758, guid: a9864d59efe977840bad666ec7bbb59f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f517000b8b782c94d81d7f6609981636, type: 2}
     - target: {fileID: 919132149155446097, guid: a9864d59efe977840bad666ec7bbb59f,
         type: 3}
       propertyPath: m_Name
       value: AltSpace VR Logo
       objectReference: {fileID: 0}
+    - target: {fileID: 9043798620415431988, guid: a9864d59efe977840bad666ec7bbb59f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f517000b8b782c94d81d7f6609981636, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9864d59efe977840bad666ec7bbb59f, type: 3}
 --- !u!4 &1217272735 stripped
@@ -2052,7 +2067,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1249391155
 Transform:
   m_ObjectHideFlags: 0

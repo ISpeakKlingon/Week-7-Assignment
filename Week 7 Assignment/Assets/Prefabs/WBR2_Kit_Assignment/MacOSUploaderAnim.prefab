@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4380986}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Modified Uploader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133,7 +133,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 66598070}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Offline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -536,7 +536,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 341492654}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: AltspaceVR Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -660,7 +660,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 460080844}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Macintosh128k
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -691,7 +691,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 841547790}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Unity Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -722,7 +722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 869685081}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Zip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1220,7 +1220,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1151018746}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Error
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1251,7 +1251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1249391155}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Success!
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1283,7 +1283,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1402955092}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Question Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1604,7 +1604,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1652980910}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Google Classroom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1730,7 +1730,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2074483377}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: File Folder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1763,7 +1763,7 @@ GameObject:
   - component: {fileID: 9018908424602777821}
   - component: {fileID: 6025090778364075393}
   - component: {fileID: 2179850305132956505}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: MacOSUploaderAnim
   m_TagString: Untagged
   m_Icon: {fileID: 0}

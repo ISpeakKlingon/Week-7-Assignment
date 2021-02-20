@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1875955509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 438f2ea6034eb46670f7c23563e62f11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e83c5f9c309298cd0dde91a40af2d4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/WBR2_Kit_Assignment/TempPrefabs/1676528379500691579_MacOSUploaderAnim.prefab
+- Assets/Prefabs/WBR2_Kit_Assignment/TempPrefabs/1676528379500691579_MacOSUploaderStatic.prefab
+Dependencies: []
